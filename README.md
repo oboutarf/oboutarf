@@ -3,3 +3,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
 </a>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://pbs-prod.linustechtips.com/monthly_2020_06/pp2.thumb.gif.bcce1b7d64c9ed9b1251efce09ade6e8.gif" />
