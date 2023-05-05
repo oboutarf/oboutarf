@@ -2,4 +2,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComlanGiovanni&hide_title=1&layout=compact&theme=dark" alt="Top Langs" />
 </a>
+💼 any freelance work? do reach, [email](mailto:osc.boutarfa@gmail.com)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
