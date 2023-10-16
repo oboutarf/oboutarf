@@ -1,11 +1,3 @@
-<style>
-  .ctn-top {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
 
 <div class="ctn-top">
   <a href="https://github.com/JaeSeoKim/badge42">
