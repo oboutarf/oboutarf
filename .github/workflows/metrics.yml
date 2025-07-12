@@ -16,6 +16,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           filename: metrics.plugin.isocalendar.svg
           output_action: save
+          config_ignored_users: ""
 
       - name: Commit and push metrics
         run: |
