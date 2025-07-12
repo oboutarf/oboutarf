@@ -54,7 +54,7 @@ Wordpress, Shopify
 Vercel, AWS, Supabase, Firebase
 
 ## What I've Built
-> Only stacks I'm fully proficient in are listed. Any technologies I'm not 100% confident with have been intentionally omitted.
+> Showcasing a curated portfolio of projects crafted during my time at 42, in professional roles, and through freelance engagements.
 
 
 ![Isometric commit calendar](metrics.plugin.isocalendar.svg)
