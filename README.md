@@ -1,3 +1,4 @@
+
 ## 👋 Hi, I'm Oscar
 > Developer based in Paris. My work focuses on clean software architecture, full-stack web development, and data science.
 
@@ -56,15 +57,7 @@ Vercel, AWS, Supabase, Firebase
 ## What I've Built
 > Showcasing a curated portfolio of projects crafted during my time at 42, in professional roles, and through freelance engagements.
 
-
+## Github activity
 ![Isometric commit calendar](metrics.plugin.isocalendar.svg)
-
-
-
-
-
-
-
-
 
 
