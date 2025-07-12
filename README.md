@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Oscar
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+> Developer based in Paris
 
 CEO at [weblane](https://markdownlivepreview.com/), we build websites and design automation workflows to help businesses streamline their operations.
 
@@ -57,8 +57,7 @@ Vercel, AWS, Supabase, Firebase
 > Only stacks I'm fully proficient in are listed. Any technologies I'm not 100% confident with have been intentionally omitted.
 
 
-
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![Isometric commit calendar](metrics.plugin.isocalendar.svg)
 
 
 
