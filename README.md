@@ -4,19 +4,19 @@
 
 CEO at [weblane](https://markdownlivepreview.com/), we build websites and design automation workflows to help businesses streamline their operations.
 
-```
+```js
 export const oboutarf = {
   type: "Male",
   height: "189cm",
-  background: "debugging like a beast", 
+  background: "debugging like a beast",
   location: {
-    description: "Paris, ïle-de-France",
+    description: "Paris, Île-de-France",
     coordinates: {
       lat: 19.741755,
       lng: -155.844437
     }
   }
-}
+};
 ```
 
 ## My skills
