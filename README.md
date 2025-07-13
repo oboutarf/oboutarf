@@ -22,6 +22,13 @@ export const oboutarf = {
 ## My skills
 > Only stacks I'm fully proficient in are listed. Any technologies I'm not 100% confident with have been intentionally omitted.
 
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+  <img 
+    src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/dragon-ball-z-shenron-1.avif"
+    alt="My skill presentation image"
+  />
+</div>
+
 ### Front-end
 
 React JS, Next JS, Vue JS, HTML, CSS  
