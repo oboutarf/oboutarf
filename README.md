@@ -18,7 +18,7 @@ export const oboutarf = {
       lng: -155.844437
     }
   }
-};
+}
 ```
 
 ## My skills
