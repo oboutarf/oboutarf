@@ -6,9 +6,11 @@ CEO at [weblane](https://markdownlivepreview.com/), we build websites and design
 
 ```js
 export const oboutarf = {
-  type: "Male",
-  height: "189cm",
-  background: "debugging like a beast",
+  first_name: "Oscar",
+  last_name: "Boutarfa",  
+  phone: "0758233600",
+  phoneIndic: "+33",
+  funFact: "Debugging like a beast",
   location: {
     description: "Paris, Île-de-France",
     coordinates: {
