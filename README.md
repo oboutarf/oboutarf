@@ -70,7 +70,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.myhander.com.png"
   />
@@ -87,7 +87,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.kouer.fr-2024.05.png"
   />
@@ -106,7 +106,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/screenshot.png"
   />
@@ -122,7 +122,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.spora.png"
   />
@@ -140,7 +140,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.intiviae.png"
   />
@@ -159,7 +159,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.pgm.png"
   />
@@ -174,7 +174,7 @@ Vercel, AWS, Supabase, Firebase
 <div>
   <img 
     alt="My skill presentation image"
-    width="500"
+    width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.majorsmoker.png"
   />
