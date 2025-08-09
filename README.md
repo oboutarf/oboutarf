@@ -31,38 +31,6 @@ export const oboutarf = {
   src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/gempages_490506870146991251-6c42e67b-da03-448e-b658-7041704ddc6f.png"
 />
 
-### Front-end
-
-React JS, Next JS, Vue JS, HTML, CSS  
-
-### Back-end
-
-Node JS, Express JS, Python
-
-### Databases
-
-PostgreSQL, MongoDB, GraphQL
-
-### Programming Languages
-
-C, C++, Java, Rust
-
-### Devops
-
-Docker, Github Actions, Linux, AWS
-
-### CRM
-
-Hubspot, Salesforce
-
-### CMS
-
-Wordpress, Shopify
-
-### Cloud
-
-Vercel, AWS, Supabase, Firebase
-
 ## What I've Built
 > Showcasing a curated portfolio of projects crafted during my time at 42, in professional roles, and through freelance engagements.
 
