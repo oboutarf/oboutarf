@@ -21,15 +21,6 @@ export const oboutarf = {
   }
 }
 ```
-
-## My skills
-
-<img 
-  width="100%"
-  alt="My skill presentation image"
-  src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/gempages_490506870146991251-6c42e67b-da03-448e-b658-7041704ddc6f.png"
-/>
-
 ## What I've Built
 > Showcasing a curated portfolio of projects crafted during my time at 42, in professional roles, and through freelance engagements.
 
