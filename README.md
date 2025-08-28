@@ -1,8 +1,6 @@
 
 ## 👋 Hi, I'm Oscar
-> Developer based in Paris. My work focuses on clean software architecture, full-stack web development, and data science.
-
-CEO at [weblane](), we build websites and design automation workflows to help businesses streamline their operations.
+> Developer based in Paris. My work focuses on clean software architecture, full-stack web development, and data science. CEO at [weblane](), we build websites and design automation workflows to help businesses streamline their operations.
 
 ```js
 export const oboutarf = {
