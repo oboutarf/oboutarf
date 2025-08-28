@@ -23,7 +23,6 @@ export const oboutarf = {
 ```
 
 ## My skills
-> Only stacks I'm fully proficient in are listed. Any technologies I'm not 100% confident with have been intentionally omitted.
 
 <img 
   width="100%"
