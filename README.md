@@ -8,7 +8,7 @@ export const oboutarf = {
   last_name: "Boutarfa",  
   phone: "0758233600",
   phoneIndic: "+33",
-  website: "https://oboutarf-portfolio-zopa.vercel.app",
+  website: "https://oscarboutarfa.com",
   funFact: "Debugging like a beast",
   location: {
     description: "Paris, Île-de-France",
