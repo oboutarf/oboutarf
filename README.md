@@ -1,36 +1,55 @@
+## 👋 Oscar Boutarfa — Full-Stack Engineer & Founder
 
-## 👋 Hi, I'm Oscar
-> Developer based in Paris. My work focuses on clean software architecture, full-stack web development, and data science. CEO at [weblane](), we build websites and design automation workflows to help businesses streamline their operations.
+Developer based in Paris, focused on **reliable web platforms**, **clean software architecture**, and **data-driven features**.  
+Currently **CEO & founder at [Weblane]()**, where we build production-grade websites and automation workflows that help businesses streamline operations and scale.
+
+- 🧱 Strong focus on **type-safe backends**, **robust APIs**, and **clean domain modeling**
+- 🌐 Full-stack experience with **React / Next.js / Node.js / Postgres / Supabase / AWS**
+- ⚙️ Hands-on with **automation**, **CI/CD**, and **cloud-native architectures**
+- 🤝 Comfortable collaborating with **product**, **design**, and **business stakeholders**
 
 ```js
 export const oboutarf = {
-  first_name: "Oscar",
-  last_name: "Boutarfa",  
+  firstName: "Oscar",
+  lastName: "Boutarfa",
   phone: "0758233600",
   phoneIndic: "+33",
   website: "https://oscarboutarfa.com",
-  funFact: "Debugging like a beast",
+  title: "Full-Stack Engineer & Founder",
+  summary:
+    "Full-stack engineer based in Paris, focused on clean software architecture, cloud-native applications, and automation for businesses.",
+  funFact: "Still enjoys debugging production issues.",
   location: {
-    description: "Paris, Île-de-France",
-    coordinates: {
-      lat: 19.741755,
-      lng: -155.844437
-    }
-  }
-}
+    city: "Paris",
+    region: "Île-de-France",
+    country: "France",
+  },
+};
 ```
-## What I've Built
-> Showcasing a curated portfolio of projects crafted during my time at 42, in professional roles, and through freelance engagements.
+
+
+
+## 🛠 Selected Projects
+
+> A curated selection of projects built at 42, in professional roles, and through freelance engagements.
+
+---
 
 ### Myhander
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Myhander platform screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.myhander.com.png"
   />
 </div>
+
+Marketplace-like platform with a **serverless backend** for managing requests, providers, and automated workflows.
+
+- Role: **Full-stack engineer**
+- Focus: **Scalable architecture**, **event-driven flows**, **secure data model**
 
 [![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
@@ -39,15 +58,23 @@ export const oboutarf = {
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
+---
+
 ### Kouer
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Kouer platform screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.kouer.fr-2024.05.png"
   />
 </div>
+
+Production-grade **Next.js** application with subscriptions, authentication, and a **Stripe-powered billing** layer.
+
+- Role: **Lead developer**
+- Focus: **Multi-tenant architecture**, **secure auth**, **payments integration**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -57,16 +84,23 @@ export const oboutarf = {
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
+---
 
 ### Weblane
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Weblane website screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/screenshot.png"
   />
 </div>
+
+Agency website and internal tooling for **automation workflows** and **client site delivery**.
+
+- Role: **Founder / Tech Lead**
+- Focus: **Reusable components**, **fast iteration**, **deployment pipelines**
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -74,15 +108,23 @@ export const oboutarf = {
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
+---
+
 ### Spora
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Spora website screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.spora.png"
   />
 </div>
+
+Customer-facing **Next.js** product with **Stripe** integration and a **Supabase-backed** data layer.
+
+- Role: **Full-stack engineer**
+- Focus: **Performance**, **SEO**, **secure payments**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -92,15 +134,23 @@ export const oboutarf = {
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
+---
+
 ### Intiviae
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Intiviae website screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.intiviae.png"
   />
 </div>
+
+E-commerce experience leveraging **Shopify** with a **custom Next.js frontend** and **Supabase / Postgres** for extended features.
+
+- Role: **Tech lead / integrator**
+- Focus: **Headless commerce**, **scalability**, **payment orchestration**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -111,30 +161,46 @@ export const oboutarf = {
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
+---
+
 ### PGM Real Estate Dubaï
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="PGM Real Estate Dubai website screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.pgm.png"
   />
 </div>
-  
+
+High-end real estate platform built on **Next.js** with **Postgres** and **TailwindCSS**.
+
+- Role: **Full-stack engineer**
+- Focus: **content management**, **responsive UI**, **international audience**
+
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
+---
+
 ### Majorsmoker
+
 <div>
   <img 
-    alt="My skill presentation image"
+    alt="Majorsmoker website screenshot"
     width="100%"
     height="auto"
     src="https://s3.eu-west-3.amazonaws.com/github.readme.assets/www.majorsmoker.png"
   />
 </div>
+
+Content-heavy platform powered by **Next.js** and **GraphQL**, integrating with **WordPress** as a headless CMS.
+
+- Role: **Full-stack engineer**
+- Focus: **headless CMS integration**, **GraphQL API design**, **SEO-optimized frontend**
 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
@@ -142,8 +208,3 @@ export const oboutarf = {
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-
-## Github activity
-![Isometric commit calendar](metrics.plugin.isocalendar.svg)
-
-
